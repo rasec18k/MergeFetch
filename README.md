@@ -5,3 +5,4 @@ And even more text!
 Line for new branch
 Line for new branch
 Line for new branch
+Line for new branch
